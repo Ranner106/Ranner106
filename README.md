@@ -1,13 +1,13 @@
 ## Oi, eu sou a Ranner de Paula, Estudante de Desenvolvimento Web Full Stack pela Trybe!
 
-<!--
+
 
 - 🔭 Estou estudando Backend no momento ...
 - 🌱 Estou melhorando o meu css nos meus projetos ...
 - 👯 Estou desenvolvendo alguns portfólios para Linkedin,etc ...
 - 🤔 Estou buscando resover problemaas com tecnologia
 - 💬 Pergunta-me algo ...
--->
+
 
 <div align="center">
   <a href="https://github.com/Ranner106">
