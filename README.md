@@ -24,6 +24,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ranner-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
   <img align="center" alt="Ranner-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.faladev.com/assets/img/logo.svg">
 </div>
   
   <div> 
