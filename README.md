@@ -24,7 +24,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ranner-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
   <img align="center" alt="Ranner-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  <img align="right" alt="Ranner-gif" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s---1w4VnJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif">
+  <img align="right" alt="Ranner-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/7ad857ee593e55464de26d3b5b8800566930c3bbfb684311ffa21b8e033a4484/68747470733a2f2f6e696b6f746f6d61642e6769746875622e696f2f6d61747269782d7261696e2f707265766965772e676966">
 </div>
   
   ##
