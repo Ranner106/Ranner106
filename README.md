@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Adoro cosntruir APIs, mexer com dados e tudo que envolva a parte de Backend e estou procurando me especializar a cada dia ...
-- 🌱 No momento esotu usando muito SQL, NodeJs, Mongodb,Sequelize, mas tô afim de aprender outras linguagens e ORMs ...
+- 🔭 Adoro cosntruir APIs, mexer com dados e tudo que envolva a parte de Backend e estou procurando me especializar a cada dia,
+- 🌱 No momento esotu usando muito SQL, NodeJs, Mongodb,Sequelize, mas tô afim de aprender outras linguagens e ORMs,
 - 👯 desenvolvi alguns portfólios, alguns backends para algumas empresas, e outros projetos que estão pinned aqui no meu git,
 - 🤔 Estou buscando resolver problemas com tecnologia, e aprender cade vez mais, acho que o céu não é o limite...,haha!!
 - 💬 Pergunta-me algo, sou curiosa, vou querer te responder ...
