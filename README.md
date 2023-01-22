@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Adoro construir APIs, mexer com dados e tudo que envolva a parte de Backend e estou procurando me especializar a cada dia,
-- 🌱 No momento estou usando muito SQL, NodeJs, Mongodb,Sequelize, mas tô afim de aprender outras linguagens e ORMs,
-- 👯 desenvolvi alguns portfólios, alguns backends para algumas empresas, e outros projetos que estão pinned aqui no meu git,
-- 🤔 Estou buscando resolver problemas com tecnologia, e aprender cade vez mais, acho que o céu não é o limite...,haha!!
+- 🔭 Sou uma desenvolvedora com mais de 1 ano de experiência em criação de aplicações de alto nível e manutenção de códigos complexos.
+- 🌱 Minha área de especialização são serviços confiáveis, escaláveis, seguros e ágeis, tudo isso com foco na satisfação do usuário final. 
+- 👯 Sempre buscando melhorias contínuas nas atualizações dos instrumentos de tecnologia da minha atuação.
+- 🤔 Acredito que meu conjunto de habilidades aliado a união é um ponto forte para mim, e um diferencial para muitas empresas. Sou amante da tecnologia e      sempre à procura de desafios.
 - 💬 Pergunta-me algo, sou curiosa, vou querer te responder ...
 
 
